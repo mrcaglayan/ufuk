@@ -1,2 +1,0 @@
-# ufuk
-ufuk
